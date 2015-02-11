@@ -1,4 +1,4 @@
-package com.jSoftware.ncaaDraft2;
+package com.jSoftware.ncaaDraft2.web;
 
 import java.text.DateFormat;
 import java.util.Date;
